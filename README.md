@@ -7,5 +7,5 @@ A Weather app build using
 
 ![landing page](/gif.gif)
 
-https://expo.io/@/minimal-weather-app
+https://expo.io/@cayshea/minimal-weather-app
 

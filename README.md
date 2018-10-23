@@ -1,4 +1,4 @@
-# minimalist-weather-app
+# Minimalist Weather App
 
 A Weather app build using  
   • React Native 

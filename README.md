@@ -6,4 +6,4 @@ A Weather app build using
   • Vector Icons
 
 ![landing page](/gif.gif)
-Format: ![Alt Text](url)
+
